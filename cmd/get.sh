@@ -1,0 +1,1 @@
+wget -O lora.safetensors https://civitai.com/api/download/models/73529?type=Model&format=SafeTensor

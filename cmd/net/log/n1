@@ -1,0 +1,2 @@
+killall: wpa_supplicant: no process killed
+rm: cannot remove '/var/run/wpa_supplicant/wlan0': No such file or directory

@@ -1,0 +1,3 @@
+echo $XDG_SESSION_TYPE
+echo $DESKTOP_SESSION
+

@@ -1,0 +1,1 @@
+curl inet-ip.info

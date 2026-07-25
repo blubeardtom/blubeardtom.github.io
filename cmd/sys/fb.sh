@@ -1,0 +1,21 @@
+#!/usr/bin/sh
+
+
+case "$TERM" in
+    xterm*)
+        if [ -e /usr/share/terminfo/x/xterm-256color ]; then
+            export TERM=xterm-256color
+        elif [ -e /usr/share/terminfo/x/xterm-color ]; then
+            export TERM=xterm-color;
+        else
+            export TERM=xterm
+        fi
+        ;;
+    linux)
+        [ -n "$FBTERM" ] && export TERM=fbterm
+        ;;
+esac
+
+if grep '^fbterm' /proc/$PPID/cmdline > /dev/null; then
+export TERM=fbterm
+fi
