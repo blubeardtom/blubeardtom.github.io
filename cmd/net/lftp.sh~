@@ -1,4 +1,0 @@
-#!/bin/sh
-
-#lftp -u root,roof2010 raks.mydns.jp
-lftp -u root,roof2010 rakko.mydns.jp

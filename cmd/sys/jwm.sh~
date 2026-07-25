@@ -1,4 +1,0 @@
-#!/bin/sh
-
-cp /root/bk.jwmrc /root/.jwmrc
-jwm -restart

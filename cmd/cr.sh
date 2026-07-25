@@ -1,1 +1,0 @@
-conda create -n dif python=3.10 -y
