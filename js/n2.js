@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const navbarHTML = `
       
-      <ul class="navbar-nav ms-auto mb-2 mb-lg-0 d-flex flex-row gap-3">
+      <ul class="bg-info navbar-nav ms-auto mb-2 mb-lg-0 d-flex flex-row gap-3">
 
         <li class="nav-item">
 <a class="navbar-brand d-flex align-items-center me-auto" href="index.html">
