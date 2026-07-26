@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
 let tab=document.getElementById("bio")
 let htm=
 `
-<div class=bg-primary>bio</div>
+<div class="text-center text-white bg-primary">bio</div>
 <table class="table align-middle text-center">
 <tbody>
 <tr>
