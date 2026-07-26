@@ -20,5 +20,5 @@ let htm=
 </tbody>
 </table>
 `
-tab.innerHTML(htm)
-}
+tab.innerHTML=htm
+})

@@ -2,8 +2,8 @@ document.addEventListener('DOMContentLoaded', () => {
   const navContainer = document.getElementById('nav');
 
   const navbarHTML = `
-      
-      <ul class="bg-info navbar-nav ms-auto mb-2 mb-lg-0 d-flex flex-row gap-3">
+<div class=container-fluid>      
+<ul class="bg-info navbar-nav ms-auto mb-2 mb-lg-0 d-flex flex-row gap-3">
 
 <li class="nav-item">
 <a class="navbar-brand d-flex align-items-center me-auto" href="index.html">
@@ -21,6 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
           <a class="nav-link text-white fw-medium" href="vid.html">Vid</a>
         </li>
       </ul>
+      </div>
   `;
 
   if (navContainer) {
