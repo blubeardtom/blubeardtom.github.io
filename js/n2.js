@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const navContainer = document.getElementById('nav');
 
   const navbarHTML = `
-    <div class="container-fluid">
+    <div class="container-fluid bg-info">
       <a class="navbar-brand d-flex align-items-center me-auto" href="#">
         <img src="img/wb3.png" alt="Blue Beard" class="d-inline-block align-text-top me-2" style="max-height: 40px;">
         <span class="fw-bold">Blue Beard Tom</span>
