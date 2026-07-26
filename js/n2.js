@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 <li class="nav-item">
 <a class="navbar-brand d-flex align-items-center me-auto" href="index.html">
-<img src="img/wb3.png" alt="Blue Beard" class="d-inline-block align-text-top me-2" style="max-height: 40px;">
+<img src="img/fb3.png" alt="Blue Beard" class="d-inline-block align-text-top me-2" style="max-height: 40px;">
 </a>
 </li>
 <li class="nav-item">
