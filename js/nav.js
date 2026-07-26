@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const navContainer = document.getElementById('con');
 
   const navbarHTML = `
-    <nav class="navbar navbar-expand-lg navbar-dark bg-info shadow-sm">
+    <nav class="navbar navbar-expand-lg navbar-light bg-info shadow-sm">
       <div class="container-fluid">
         <!-- Brand / Logo & Name -->
         <a class="navbar-brand d-flex align-items-center me-auto" href="#">
@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
         </div>
       </div>
     </nav>
-  `;
+`;
 
   if (navContainer) {
     navContainer.innerHTML = navbarHTML;
