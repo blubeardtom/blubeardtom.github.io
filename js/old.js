@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-let tab=document.getElementById("bio")
+let tab=document.getElementById("old")
 let htm=
 `
 <div class="text-center text-white bg-primary">bio</div>
