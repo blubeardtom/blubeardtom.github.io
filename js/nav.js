@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const navContainer = document.getElementById('con');
+const navContainer = document.getElementById('con');
 
   const navbarHTML = `
     <nav class="navbar navbar-expand-lg navbar-light bg-info shadow-sm">
