@@ -13,13 +13,13 @@ let navbarHTML = `
 </li>
 
 <li class="nav-item">
-<a class="nav-link text-white fw-medium" href="bio.html">Bio</a>
+<a class="nav-link text-white fw-medium" href="bio.htm">Bio</a>
 </li>
 <li class="nav-item">
-<a class="nav-link text-white fw-medium" href="vid.html">Vid</a>
+<a class="nav-link text-white fw-medium" href="vid.htm">Vid</a>
 </li>
 <li class="nav-item">
-<a class="nav-link text-white fw-medium" href="old.html">Old</a>
+<a class="nav-link text-white fw-medium" href="old.htm">Old</a>
 </li>
 
 </ul>
